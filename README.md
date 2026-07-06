@@ -1,83 +1,65 @@
-# Looking for passionate Mobile Developer?
-## My name is Dias and I'm here to help you solve your problem
+<h1 align="center">Hi, I'm Dias 👋</h1>
 
-Mobile Developer specializing in Flutter and iOS development with experience building production applications, scalable architectures, and suitable user interfaces.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=02569B&center=true&vCenter=true&width=550&lines=Mobile+Developer+%7C+Flutter+%26+iOS;Clean+Architecture+%2B+BLoC+enthusiast;Building+products+people+actually+use" alt="Typing SVG" />
+</p>
 
-📍 Kazakhstan, Astana
-📱 Flutter • Dart • iOS • Swift • Firebase
-🚀 Passionate about building a product to help the world
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Astana,_Kazakhstan-blue?style=flat-square" />
+  <a href="https://www.linkedin.com/in/dias-saiynov-884a911a7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:dsaiynov01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/dsaiynov"><img src="https://img.shields.io/badge/Telegram-@dsaiynov-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+</p>
 
-## About Me
+---
 
-- 💼 Mobile Developer with 3 years of experience
-- 📲 Built applications in fintech, booking, and education domains
-- 🏗️ Experience with Clean Architecture, BLoC, and native integrations
-- 🌱 Currently learning advanced iOS, system design, and backend development
+### 👨‍💻 About Me
 
-## Tech Stack
+- 💼 Mobile Developer — **3 years** shipping production apps in **fintech, booking & education**
+- 🏗️ Clean Architecture, BLoC, native iOS/Android integrations
+- 🌱 Currently deep-diving into advanced iOS, system design & backend
+- 🚀 I like building things that solve a real problem — not just tech for tech's sake
 
-### Mobile
-- Flutter
-- Dart
-- Swift
-- UIKit
-- SwiftUI
+---
 
-### Architecture
-- Clean Architecture
-- BLoC
-- MVVM
-- Dependency Injection
+### 🛠️ Tech Stack
 
-### Backend & Services
-- Firebase
-- Supabase
-- REST APIs
-- WebSockets
-- Push Notifications
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,ios,firebase,supabase,figma,git,githubactions,xcode,androidstudio" />
+</p>
 
-### Tools
-- Git
-- GitHub Actions
-- Figma
-- Fastlane
-- Xcode
-- Android Studio
+**Architecture:** Clean Architecture · BLoC · MVVM · Dependency Injection
+**Backend & Services:** REST APIs · WebSockets · Push Notifications
 
-## Featured Projects
+---
 
-### 💰 [WalletWise](https://github.com/dias-btt/WalletWise)
+### 🚀 Featured Project
 
-**Personal finance & digital wallet app** — track spending, manage budgets, and reach savings goals.
+#### 💰 [WalletWise](https://github.com/dias-btt/WalletWise) — Personal finance & digital wallet app
 
 [![CI](https://github.com/dias-btt/WalletWise/actions/workflows/dart.yml/badge.svg)](https://github.com/dias-btt/WalletWise/actions/workflows/dart.yml)
 [![Flutter](https://img.shields.io/badge/Flutter-3.41-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![codecov](https://codecov.io/gh/dias-btt/WalletWise/graph/badge.svg)](https://codecov.io/gh/dias-btt/WalletWise)
 
-A cross-platform Flutter app for everyday money management: multi-account tracking, transaction history with filters, category budgets, savings goals, and monthly analytics — with offline read support and biometric security.
+Track spending, manage budgets, and hit savings goals — offline-friendly, biometric-secured, and built on Clean Architecture + BLoC with a Supabase backend. **132 tests**, CI on every push.
 
-**Highlights**
-- 🏗️ **Clean Architecture** — feature modules (`data` / `domain` / `presentation`), use cases, repository pattern
-- 🧠 **BLoC** state management with `Either<Failure, T>` error handling (`fpdart`)
-- ☁️ **Supabase** backend — Auth, PostgreSQL, RPC for analytics & goal funding
-- 📴 **Offline-friendly** — Isar local cache with TTL + stale-data fallback
-- 🔐 **Security** — biometric app lock, secure storage, Sentry monitoring
-- ✅ **132 tests** — BLoCs, use cases, domain utils, widget tests; CI on every push
+`Flutter` `Supabase` `Isar` `BLoC` `go_router` `freezed` `Sentry`
 
-**Tech:** Flutter · Dart · Supabase · Isar · BLoC · go_router · get_it/injectable · freezed · fl_chart · Sentry
-
-**Links:** [Repository](https://github.com/dias-btt/WalletWise) · [Releases (APK)](https://github.com/dias-btt/WalletWise/releases/latest)
+📦 [Repo](https://github.com/dias-btt/WalletWise) · [Latest APK](https://github.com/dias-btt/WalletWise/releases/latest)
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dias-btt&show_icons=true)
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dias-btt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dias-btt&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dias-btt&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dias-btt&theme=tokyonight&hide_border=true" />
+</p>
 
-## Contact
+---
 
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dias-saiynov-884a911a7/)
-- Email: dsaiynov01@gmail.com
-- Telegram: @dsaiynov
+<p align="center"><i>Open to Mobile Developer roles — let's build something together 🚀</i></p>
