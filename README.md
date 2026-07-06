@@ -1,17 +1,18 @@
-# Hi, I'm Dias Saiynov 👋
+# Looking for passionate Mobile Developer?
+## My name is Dias and I'm here to help you solve your problem
 
-Mobile Developer specializing in Flutter and iOS development with experience building production applications, scalable architectures, and beautiful user interfaces.
+Mobile Developer specializing in Flutter and iOS development with experience building production applications, scalable architectures, and suitable user interfaces.
 
-📍 Kazakhstan
+📍 Kazakhstan, Astana
 📱 Flutter • Dart • iOS • Swift • Firebase
-🚀 Passionate about mobile product development and clean architecture.
+🚀 Passionate about building a product to help the world
 
 ## About Me
 
-- 💼 Mobile Developer with X years of experience
-- 📲 Built applications in fintech, booking, and analytics domains
+- 💼 Mobile Developer with 3 years of experience
+- 📲 Built applications in fintech, booking, and education domains
 - 🏗️ Experience with Clean Architecture, BLoC, and native integrations
-- 🌱 Currently learning advanced iOS and system design
+- 🌱 Currently learning advanced iOS, system design, and backend development
 
 ## Tech Stack
 
@@ -30,6 +31,7 @@ Mobile Developer specializing in Flutter and iOS development with experience bui
 
 ### Backend & Services
 - Firebase
+- Supabase
 - REST APIs
 - WebSockets
 - Push Notifications
@@ -68,18 +70,11 @@ A cross-platform Flutter app for everyday money management: multi-account tracki
 
 ---
 
-
-## Open Source
-
-- Flutter packages
-- UI components
-- Developer tools
-
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=dias-btt&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dias-btt&layout=compact)
 
 ## Contact
 
