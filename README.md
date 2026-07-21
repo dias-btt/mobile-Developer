@@ -35,7 +35,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🍎 [iOS Portfolio](https://github.com/dias-btt/iOS-Portfolio) — Native iOS apps & architecture
+#### 🍎 [iOS Portfolio](https://github.com/dias-btt/iOS-Developer-Portfolio) — Native iOS apps & architecture
 
 [![Swift](https://img.shields.io/badge/Swift-6-FA7343?logo=swift&logoColor=white)](https://swift.org)
 [![UIKit](https://img.shields.io/badge/UIKit-iOS-000000?logo=apple&logoColor=white)](https://developer.apple.com/documentation/uikit)
