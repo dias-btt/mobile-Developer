@@ -35,6 +35,18 @@
 
 ### 🚀 Featured Projects
 
+#### 🍎 [iOS Portfolio](https://github.com/dias-btt/iOS-Portfolio) — Native iOS apps & architecture
+
+[![Swift](https://img.shields.io/badge/Swift-6-FA7343?logo=swift&logoColor=white)](https://swift.org)
+[![UIKit](https://img.shields.io/badge/UIKit-iOS-000000?logo=apple&logoColor=white)](https://developer.apple.com/documentation/uikit)
+[![SwiftUI](https://img.shields.io/badge/SwiftUI-Learning-0A84FF?logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
+
+A collection of native iOS projects demonstrating modern Swift development, UIKit, SwiftUI, Clean Architecture, MVVM, networking, concurrency, dependency injection, and testing.
+
+`Swift` `UIKit` `SwiftUI` `MVVM` `Clean Architecture` `Combine` `URLSession`
+
+📦 [Repository](https://github.com/dias-btt/iOS-Portfolio)
+
 #### 🏟️ [KoraTalk](https://apps.apple.com/kz/app/koratalk-events-and-booking/id6741722102) — Events, booking & social sports app
 
 [![App Store](https://img.shields.io/badge/App%20Store-Available-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/kz/app/koratalk-events-and-booking/id6741722102)
