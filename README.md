@@ -33,7 +33,20 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+
+#### 🏟️ [KoraTalk](https://apps.apple.com/kz/app/koratalk-events-and-booking/id6741722102) — Events, booking & social sports app
+
+[![App Store](https://img.shields.io/badge/App%20Store-Available-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/kz/app/koratalk-events-and-booking/id6741722102)
+[![Flutter](https://img.shields.io/badge/Flutter-Production-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+
+Production Flutter app for discovering sports events, booking venues, joining streams/open games, chatting, and managing profiles — shipped to the App Store. Built with MVVM + provider, GetIt DI, Dio networking, WebSockets, and Firebase (push, Crashlytics, Remote Config).
+
+`Flutter` `MVVM` `provider` `GetIt` `Dio` `WebSockets` `Firebase` `Maps`
+
+📱 [App Store](https://apps.apple.com/kz/app/koratalk-events-and-booking/id6741722102)
+
+---
 
 #### 💰 [WalletWise](https://github.com/dias-btt/WalletWise) — Personal finance & digital wallet app
 
